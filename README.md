@@ -1,6 +1,11 @@
 # doubles-number-program
 Here is a simple Python program that asks the user to enter a number, doubles that number, and continues to repeat the process until the value is 100 or greater:
+
+
+
 In this program:
+
+
 The user is prompted to enter a number.
 The input is converted to a float (assuming the user enters a numeric value).
 The double_number function doubles the input number.
